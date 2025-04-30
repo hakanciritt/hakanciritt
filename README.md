@@ -8,9 +8,9 @@ const hakan = {
    name: "Hakan",
    lastName: "Cirit",
    dateOfBirth: new Date(1999,05,18),
-   nationality: "Turk",
+   nationality: "Türkiye",
    location: {
-    country: "Turkey",
+    country: "Türkiye",
     city: "İstanbul",
    },
    languages: [
